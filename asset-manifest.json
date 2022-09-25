@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tonejs-dubsiren/static/css/main.a94a483e.css",
+    "main.js": "/tonejs-dubsiren/static/js/main.610e35fb.js",
+    "index.html": "/tonejs-dubsiren/index.html",
+    "main.a94a483e.css.map": "/tonejs-dubsiren/static/css/main.a94a483e.css.map",
+    "main.610e35fb.js.map": "/tonejs-dubsiren/static/js/main.610e35fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a94a483e.css",
+    "static/js/main.610e35fb.js"
+  ]
+}
